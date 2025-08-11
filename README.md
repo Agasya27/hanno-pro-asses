@@ -9,7 +9,7 @@
 
 ## Running Locally
 1. Clone the repository from GitHub.
-2. Install required dependencies: `pip install -r requirements.txt`
+2. Add your personal google API KEY
 3. Run the main notebook or Python script to generate outputs.
 
 ## Running in Google Colab
