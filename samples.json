@@ -1,0 +1,20 @@
+{
+    "samples": [
+        {
+            "query": "Analyze biometric evidence from the 2025 case",
+            "output": {
+                "match_confidence": "97.8%",
+                "matched_record_id": "BIO-2025-XYZ",
+                "legal_recommendations": [
+                    "Interrogation of suspect",
+                    "Preserve evidence",
+                    "Conduct witness interviews"
+                ]
+            }
+        },
+        {
+            "query": "Summarize legal brief for 2025 biometric case",
+            "output": "Biometric evidence matched with 97.8% confidence. Suspect has prior legal history. Recommended next steps include interrogation, evidence preservation, and witness interviews."
+        }
+    ]
+}
